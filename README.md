@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Amit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amitkumardeveloper1/)](https://www.linkedin.com/in/aakash--01629954/)
+[![Linkedin Badge](https://img.shields.io/badge/-Amit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amitkumardeveloper1/)](https://www.linkedin.com/in/amitkumardeveloper1/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Amit-green)](http://developerkumar.in/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Amit-yellow)](https://stackoverflow.com/users/14796012/amit-kumar-)
 [![HackerRank Badge](https://img.shields.io/badge/HackerRank-amitkumar_devel1-red)](https://www.hackerrank.com/amitkumar_devel1)
